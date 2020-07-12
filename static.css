@@ -1,3 +1,8 @@
+body{
+    display:block;
+    width: 100%; 
+}
+
 
 .topOfPage{
     background-image: url("images/netflixBack.jpg");
